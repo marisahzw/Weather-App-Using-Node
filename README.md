@@ -1,25 +1,25 @@
-# 101371922_comp3123_labtest2
+# Weather App Using React
 
 Weather App - Summary of Steps
 1. Created React App
-npx create-react-app  101371922_comp3123_labtest2
-cd  101371922_comp3123_labtest2
+npx create-react-app  Weather-App 
+cd  Weather-App
 2. Installed Axios
 npm install axios
 3. Getting OpenWeatherMap API Key
-Created a free account on OpenWeatherMap.
-Obtained my API key.
+##Create a free account on OpenWeatherMap.
+4.Obtaine my API key.
 5. Set Up my API  Key
-5. Fetch Weather Data
+6. Fetch Weather Data
 created WeatherInfo.js to fetch and display weather data.
 
-6. Style Components
+7. Style Components
 Customize styles in WeatherInfo.css.
-7. Run the App
+8. Run the App
 npm start
 Visit http://localhost:3000 in your browser.
 
-8. Acknowledgments
+9. Acknowledgments
 Icons sourced from OpenWeatherMap Icons.
 Tested the api endpoints using postman
 
